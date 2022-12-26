@@ -37,8 +37,8 @@ const AnswerResults = ({ score, resetter }) => {
           component="div"
           id="answerLists"
           style={{
-            fontSize: "20px",
-            height: "6vh",
+            fontSize: "18px",
+            height: "8vh",
             backgroundColor: "#5d687633",
             color: "#fff",
             display: "flex",

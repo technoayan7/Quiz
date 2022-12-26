@@ -9,7 +9,7 @@ export const questionsList = [
     ],
   },
   {
-    questionText: "Q2) '.MOV' extension refers usually to what kind of file?",
+    questionText: "Q2) '.MOV' extension is what kind of file?",
     answerOptions: [
       { answerText: "-> Image file", isCorrect: false },
       { answerText: "-> Animation/movie file", isCorrect: true },
