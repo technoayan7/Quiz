@@ -65,8 +65,9 @@ const HomePage = () => {
           width: "70vw",
           maxWidth: "70vw",
           height: "78vh",
-          margin: "7vh auto",
-          backgroundColor: "#0000003b",
+          margin: "3vh auto",
+          // backgroundColor: "#0000003b",
+          backgroundImage: "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
         }}
       >
         <Stepper
@@ -109,7 +110,7 @@ const HomePage = () => {
                   transition: "0.4s",
                   "&:hover": {
                     borderColor: "#fff",
-                    backgroundColor: "#3a3b3c",
+                    backgroundImage: "linear-gradient(109.6deg,rgb(6, 12, 73)11.2%,rgba(110, 123, 251, 1) 91.1%)",
                     width: "63vw",
                   },
                 }}

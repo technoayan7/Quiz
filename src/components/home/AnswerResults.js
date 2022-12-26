@@ -26,8 +26,9 @@ const AnswerResults = ({ score, resetter }) => {
         maxWidth: 800,
         border: "solid 1px",
         borderRadius: "10px",
-        background: "#242526",
-        margin: "80px auto",
+        // background: "#242526",
+        backgroundImage: "linear-gradient(to right, #0f0c29, #302b63, #24243e)",
+        margin: "30px auto",
         overflow: "auto",
       }}
       component="nav"
@@ -39,7 +40,8 @@ const AnswerResults = ({ score, resetter }) => {
           style={{
             fontSize: "18px",
             height: "8vh",
-            backgroundColor: "#5d687633",
+            // backgroundColor: "#5d687633",
+            backgroundImage: "linear-gradient(to right top,#0b0537,#1a1362,#36198f,#581bbd,#8012eb",
             color: "#fff",
             display: "flex",
             justifyContent: "space-between",

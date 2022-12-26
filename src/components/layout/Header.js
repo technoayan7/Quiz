@@ -35,7 +35,8 @@ const Header = () => {
       position="sticky"
       style={{
         color: "#e3e3e3",
-        backgroundColor: "#ffffff00",
+        // backgroundColor: "#ffffff00",
+        backgroundImage: "linear-gradient(to right top,#0b0537,#1a1362,#36198f,#581bbd,#8012eb",
         backdropFilter: "blur(8px)",
         borderBottom: "solid 0.5px #e3e3e3",
         boxShadow: "none",

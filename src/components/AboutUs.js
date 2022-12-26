@@ -20,6 +20,7 @@ const AboutUs = () => {
           flexDirection="row"
           justifyContent="center"
           alignItems="center"
+          background-image= "linear-gradient(109.6deg,rgb(174, 181, 251)11.2%,rgba(110, 123, 251, 1) 91.1%)"
           sx={{ margin: "200px auto" }}
         >
           <Box textAlign="center" p={3} >
