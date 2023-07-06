@@ -1,3 +1,9 @@
+Developed a responsive quiz application using React JS: Created a quiz app utilizing the React JS framework, enabling users to access and interact with the application across various devices and screen sizes.
+
+Implemented fixed number of questions with comprehensive feedback: Incorporated a predetermined set of questions in the quiz, ensuring a consistent experience for all users. Upon completion, the app displays the correct answers alongside the corresponding questions, providing users with comprehensive feedback.
+
+Calculated and displayed total score: Implemented a scoring system within the app that calculates the user's total score based on the number of correctly answered questions. The app then presents the final score to the user, offering a clear indication of their performance in the quiz.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
